@@ -1,10 +1,12 @@
-# Project-Template for IWS 276 Labor
+# IW276SS20P2: Affective Computing: Face Expression Recognition (Jetson Nano)
+
 
 Short introduction to project assigment.
 
 <p align="center">
-  <img src="screenshot.png"/>
-  Link to Demo Video
+  <img src="screenshot.png"/> <br />
+  <a href="http://www.youtube.com/watch?v=_ikaoWiW6K8">Link to Demo Video </a>
+
 </p>
 
 > This work was done by Daahir Ali, Louis Tschall, Konstantin Krause during the IWI276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlsruhe - Technik und Wirtschaft) in SS 2020. 
@@ -25,7 +27,6 @@ Short introduction to project assigment.
 * OpenCV 4.0 (or above)
 * Jetson Nano
 * Jetpack 4.2
-> [Optional] ...
 
 ## Prerequisites
 1. Install requirements:
